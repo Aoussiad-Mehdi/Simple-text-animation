@@ -52,6 +52,7 @@
       animation-delay: 0.95s;
       opacity: 0;
   }
+  /* animations */
   @keyframes anim2{
       100%{
           opacity: 1;
